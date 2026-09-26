@@ -13,7 +13,7 @@ oeffentliche URL, deshalb ist dieses Repo **oeffentlich** und getrennt vom priva
    ```
    https://raw.githubusercontent.com/nienhausdavid/wallpapersnsk/main/<dateiname>
    ```
-3. In Intune in der Richtlinie `NSK - Android - ASTM - Hintergrundbild Microsoft Launcher` bei **Custom wallpaper image URL** eintragen.
+3. In Intune in der Microsoft-Launcher-App-Konfiguration (`NSK - Android - ASTM - App-Konfiguration - Microsoft Launcher`) den Schluessel `com.microsoft.launcher.Wallpaper.Url` eintragen.
 
 **Bild austauschen:** neue Datei mit hoeherer Version anlegen (`tablet-v2.jpg`) und die URL in Intune anpassen. Eine gleichnamige Datei zu
 ersetzen kann dazu fuehren, dass Geraete das alte, zwischengespeicherte Bild behalten. Alte Versionen erst loeschen, wenn keine
