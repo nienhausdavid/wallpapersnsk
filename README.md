@@ -22,6 +22,7 @@ Richtlinie mehr darauf zeigt.
 ## Enthaltene Bilder
 
 18 Bilder in 2560 Pixel Breite (aus den 8000 Pixel breiten Originalen verkleinert, JPEG, 140 bis 250 KB), Version `v1`.
+Ausnahme: `stm-beschriftet-*` liegt in `v2`. Die erste Fassung trug fälschlich die Beschriftung "STV. STORE MANAGER"; `v2` zeigt "STORE MANAGER".
 
 | Rolle | Bedeutung |
 |---|---|
